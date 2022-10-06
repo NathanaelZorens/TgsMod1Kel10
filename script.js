@@ -16,8 +16,6 @@ let obj = [{nama_lengkap:"Fiki Rilo Pambudi",nama_panggilan:"Fiki",nomor_telepon
 
 
 const checkOnKeyUp = (inputDTO) => {
-
-
  
 
     //console.log(inputDTO.value);
